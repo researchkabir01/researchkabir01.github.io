@@ -475,8 +475,8 @@ footer {
 .tag {
   font-family: var(--mono);
   font-size: 11px;
-  color: var(--ink-faint);
-  border: 1px solid var(--rule);
+  color: var(--ink-muted);
+  border: 1px solid #b8b5ad;
   padding: 1px 7px;
   border-radius: 2px;
   letter-spacing: 0.03em;
