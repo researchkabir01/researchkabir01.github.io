@@ -62,7 +62,7 @@ nav {
 
 .nav-name {
   font-family: var(--mono);
-  font-size: 16px;
+  font-size: 15px;
   color: var(--ink-muted);
   letter-spacing: 0.04em;
   text-decoration: none;
@@ -76,7 +76,7 @@ nav {
 
 .nav-links a {
   font-family: var(--mono);
-  font-size: 20px;
+  font-size: 15px;
   color: var(--ink-muted);
   letter-spacing: 0.05em;
   text-transform: lowercase;
@@ -429,7 +429,7 @@ footer {
 
 .project-status {
   font-family: var(--mono);
-  font-size: 15px;
+  font-size: 13px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   padding: 2px 8px;
@@ -453,7 +453,7 @@ footer {
 
 .project-year {
   font-family: var(--mono);
-  font-size: 15px;
+  font-size: 11px;
   color: var(--ink-faint);
   letter-spacing: 0.03em;
 }
@@ -474,7 +474,7 @@ footer {
 
 .tag {
   font-family: var(--mono);
-  font-size: 13px;
+  font-size: 12px;
   color: var(--ink-muted);
   border: 1px solid #b8b5ad;
   padding: 1px 7px;
@@ -498,7 +498,7 @@ footer {
   align-items: center;
   gap: 0.35rem;
   font-family: var(--mono);
-  font-size: 19px;
+  font-size: 15px;
   color: var(--accent);
   letter-spacing: 0.02em;
 }
