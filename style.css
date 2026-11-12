@@ -429,7 +429,7 @@ footer {
 
 .project-status {
   font-family: var(--mono);
-  font-size: 13px;
+  font-size: 15px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   padding: 2px 8px;
@@ -474,7 +474,7 @@ footer {
 
 .tag {
   font-family: var(--mono);
-  font-size: 15px;
+  font-size: 13px;
   color: var(--ink-muted);
   border: 1px solid #b8b5ad;
   padding: 1px 7px;
@@ -498,7 +498,7 @@ footer {
   align-items: center;
   gap: 0.35rem;
   font-family: var(--mono);
-  font-size: 16px;
+  font-size: 19px;
   color: var(--accent);
   letter-spacing: 0.02em;
 }
