@@ -32,7 +32,7 @@ body {
   font-family: var(--serif);
   background: var(--paper);
   color: var(--ink);
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.75;
 }
 
@@ -62,7 +62,7 @@ nav {
 
 .nav-name {
   font-family: var(--mono);
-  font-size: 15px;
+  font-size: 16px;
   color: var(--ink-muted);
   letter-spacing: 0.04em;
   text-decoration: none;
@@ -76,7 +76,7 @@ nav {
 
 .nav-links a {
   font-family: var(--mono);
-  font-size: 13px;
+  font-size: 15px;
   color: var(--ink-muted);
   letter-spacing: 0.05em;
   text-transform: lowercase;
@@ -145,7 +145,7 @@ footer {
 
 .hero-text .position {
   font-family: var(--mono);
-  font-size: 13px;
+  font-size: 15px;
   color: var(--ink-muted);
   letter-spacing: 0.04em;
   margin-bottom: 1.2rem;
@@ -171,7 +171,7 @@ footer {
   align-items: center;
   gap: 0.45rem;
   font-family: var(--mono);
-  font-size: 13px;
+  font-size: 15px;
   color: var(--accent);
   letter-spacing: 0.02em;
 }
@@ -203,7 +203,7 @@ footer {
 
 .section-label {
   font-family: var(--mono);
-  font-size: 11px;
+  font-size: 15px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--ink-faint);
@@ -429,7 +429,7 @@ footer {
 
 .project-status {
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 13px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   padding: 2px 8px;
@@ -453,7 +453,7 @@ footer {
 
 .project-year {
   font-family: var(--mono);
-  font-size: 12px;
+  font-size: 15px;
   color: var(--ink-faint);
   letter-spacing: 0.03em;
 }
@@ -474,7 +474,7 @@ footer {
 
 .tag {
   font-family: var(--mono);
-  font-size: 11px;
+  font-size: 15px;
   color: var(--ink-muted);
   border: 1px solid #b8b5ad;
   padding: 1px 7px;
@@ -498,7 +498,7 @@ footer {
   align-items: center;
   gap: 0.35rem;
   font-family: var(--mono);
-  font-size: 12px;
+  font-size: 16px;
   color: var(--accent);
   letter-spacing: 0.02em;
 }
