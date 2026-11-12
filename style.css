@@ -76,7 +76,7 @@ nav {
 
 .nav-links a {
   font-family: var(--mono);
-  font-size: 15px;
+  font-size: 20px;
   color: var(--ink-muted);
   letter-spacing: 0.05em;
   text-transform: lowercase;
